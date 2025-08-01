@@ -4,7 +4,7 @@ This project explores activity and sleep trends from smart device data of 33 ind
 
 Data was cleaned using Excel and analyzed in R with `tidyverse` and `ggplot2`. The report was generated in R Markdown.
 
-📄 **[View Full Report (HTML)](https://yourusername.github.io/bellabeat-analysis/bellabeat_report.html)**  
+📄 **[View Full Report (HTML)](https://maleka2004.github.io/bellabeat-analysis/bellabeat_report.html)**  
  Dataset Source: [Kaggle (via Google Capstone)](https://www.kaggle.com/datasets/arashnic/fitbit)
 
 > This is a fictional dataset used for educational purposes.
